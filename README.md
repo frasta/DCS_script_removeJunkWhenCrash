@@ -23,7 +23,7 @@ CC BY-NC-SA includes the following elements:
 BY – Credit must be given to the creator
 NC – Only noncommercial uses of the work are permitted
 SA – Adaptations must be shared under the same terms
-See for [LICENSE.MD](https://github.com/frasta/DCS_script_groundSpeedLimit/blob/main/LICENSE.md) more details.
+See for [LICENSE.MD](https://github.com/frasta/DCS_script_removeJunkWhenCrash/blob/master/LICENSE.md) more details.
 
 ### Any question?
 If you have any question, find me on my Discord in a public channel (please no DM, your question can help other people 😉) =>
