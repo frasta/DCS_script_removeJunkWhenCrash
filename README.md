@@ -3,7 +3,7 @@
 Sometimes players crash or bomb on airbases (or eject from the ground, making explose their airplane 🤬), creatings craters, wreckages or debris, all of them could be annoying for other players who didn't ask anything.
 This script detects a crash in zones and delete the craters/wreckages/debris.
 
-###How to install it?
+### How to install it?
 - Open your mission in the mission editor
 - Mist script is mandatory, load it first in your mission! https://github.com/mrSkortch/MissionScriptingTools
 - Place zones (circle and/or rectangle) where you want remove proof of any accident 👀
@@ -11,7 +11,7 @@ This script detects a crash in zones and delete the craters/wreckages/debris.
 - Load the script as you did to load the Mist script
 - Host your mission and enjoy 😏
 
-###What I ask in exchange?
+### What I ask in exchange?
 - Mention a small credit to me in your server/mission 🥰
 
 ### License
